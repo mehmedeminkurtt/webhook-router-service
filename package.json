@@ -1,0 +1,13 @@
+{
+  "name": "webhook-router-service",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "router.js",
+  "scripts": {
+    "start": "node router.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
